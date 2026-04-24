@@ -1,0 +1,17 @@
+# MATLAB
+*.asv
+*.autosave
+*.fig
+*.mlx~
+slprj/
+
+# Local extraction workspace
+extracted/
+/Image analysis toolkit.mlappinstall
+/js3c00345_si_001.pdf
+/.codex
+/.omx/
+
+# OS files
+Thumbs.db
+.DS_Store

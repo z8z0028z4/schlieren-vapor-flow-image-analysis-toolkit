@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: Schlieren Vapor Flow Image Analysis Toolkit
+message: If you use this repository, please cite the associated journal article.
+type: software
+authors:
+  - family-names: Li
+    given-names: Houyi
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Li
+      given-names: Hou-I
+    - family-names: Prabhu
+      given-names: Gurpur Rakesh D.
+    - family-names: Buchowiecki
+      given-names: Krzysztof
+    - family-names: Urban
+      given-names: Pawel L.
+  title: High-Speed Schlieren Imaging of Vapor Formation in Electrospray Plume
+  journal: Journal of the American Society for Mass Spectrometry
+  year: 2024
+  volume: 35
+  issue: 2
+  start: 244
+  end: 254
+  doi: 10.1021/jasms.3c00345
